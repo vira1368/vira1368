@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="100" height="100" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="100" height="100" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="100" height="100" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="100" height="300" />
 </p>
 
 <p align="center">
